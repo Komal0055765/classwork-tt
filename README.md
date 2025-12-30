@@ -60,6 +60,4 @@ Overall, it was a fun and useful learning experience that gave me confidence to 
 
 
 
-Author
 
-Jugnoo
