@@ -16,6 +16,7 @@ Tools Used:
 *Only basic Python, no complicated libraries
 
 Algorithms in This Project:
+
 1️⃣ Linear Regression
 
 Predicts numbers like marks or prices.
